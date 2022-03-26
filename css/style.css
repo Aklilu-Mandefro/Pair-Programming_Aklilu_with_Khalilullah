@@ -1,0 +1,61 @@
+#main {
+    border-radius: 5px;
+    background: #8d857f;
+    font-family: system-ui;
+    font-size: 1.3rem;
+    line-height: 1.5;
+    color:white;
+    text-align: center;
+}
+
+h1 {
+    font-size: 4rem;
+    margin: 19px;
+}
+
+h2 {
+    font-size: 3.25rem;
+}
+
+a {
+color: blue;
+}
+
+a:visited {
+color: blue;
+}
+
+img {
+max-width: fit-content;
+display: block;
+height: auto;
+margin: 0 auto;
+}
+
+#img-div {
+background: white;
+padding: 10px;
+/* margin: 0; */
+}
+
+#img-caption {
+margin: 15px 0 5px 0;
+}
+
+
+ul {
+max-width: 900px;
+margin: 0 auto 50px auto;
+text-align: left;
+line-height: 1.6;
+text-align: justify;
+}
+
+li {
+margin: 16px 0;
+}
+
+
+div#img-caption {
+ color: black;
+}
